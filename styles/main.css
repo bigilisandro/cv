@@ -7181,7 +7181,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
+  padding-top: 20px;
   padding-right: 0;
   text-align: center;
   color: #fff;
@@ -7259,6 +7259,14 @@ Created using IcoMoon - icomoon.io
 
 .cc-instagram:hover i {
   color: #405de6;
+}
+
+.cc-linkedin:hover i {
+  color: #0e76a8;
+}
+
+.cc-github:hover i {
+  color: black;
 }
 
 /* Credit Style */
